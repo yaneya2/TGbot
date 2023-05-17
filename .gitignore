@@ -6,7 +6,7 @@ build/
 !**/src/test/**/build/
 gradlew
 gradlew.bat
-
+gradle/wrapper
 
 ### STS ###
 .apt_generated
